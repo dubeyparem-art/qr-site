@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Details</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial;
+      background: #eee;
+    }
+    .box {
+      max-width: 380px;
+      background: white;
+      margin: 50px auto;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
+    img {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <img src="photo.jpg">
+  <h2>prem dubey </h2>
+  <p>📞 Phone:6299616583</p>
+  <p>📍 Address: dubey khareya , gopalganj</p>
+</div>
+
+</body>
+</html>
